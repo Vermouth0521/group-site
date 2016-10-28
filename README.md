@@ -1,2 +1,1 @@
-# groupSite
 # group-site
